@@ -1,12 +1,6 @@
-## My Project
+## MASSIVE-AMR
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
+A dataset with more than 84,000 manually annotated AMR graphs for 1,685 information-seeking utterances mapped to 50+ typologically diverse languages.
 
 ## Security
 
@@ -14,5 +8,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the LICENSE NAME HERE License.
+This library is licensed under the CC-BY-NC-4.0 License.
 
