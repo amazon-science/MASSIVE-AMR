@@ -1,6 +1,6 @@
 ## MASSIVE-AMR
 
-A dataset with more than 84,000 manually annotated AMR graphs for 1,685 information-seeking utterances mapped to 50+ typologically diverse languages.
+A dataset with more than 84,000 text-to-graph Abstract Meaning Representation (AMR) annotations for 1,685 information-seeking utterances mapped to 50+ typologically diverse languages.
 
 ## Security
 
